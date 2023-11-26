@@ -1,0 +1,39 @@
+2023.11.20 15:03:38 INFO  Started: Metals version 1.1.0 in folders '/Users/jacobinwald/Desktop/Professional Issues/prof-issue-essay-2' for client Visual Studio Code 1.84.2.
+2023.11.20 15:03:42 WARN  Build server is not auto-connectable.
+2023.11.20 15:03:42 WARN  no build tool detected in workspace '/Users/jacobinwald/Desktop/Professional Issues/prof-issue-essay-2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.11.20 15:03:42 WARN  no build target for: /Users/jacobinwald/Desktop/Elements of Programing Languages/CW3/src/Typer.scala
+2023.11.20 15:03:49 INFO  no build target found for /Users/jacobinwald/Desktop/Elements of Programing Languages/CW3/src/Typer.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.11.20 15:03:53 INFO  time: code lens generation in 11s
+Nov 20, 2023 3:44:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 22, 2023 2:01:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 22, 2023 2:11:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.11.22 14:27:50 WARN  no build target for: /Users/jacobinwald/Desktop/Elements of Programing Languages/CW3/src/Fish.scala
+2023.11.22 14:27:52 INFO  time: code lens generation in 1.32s
+Nov 22, 2023 4:19:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 22, 2023 4:21:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 23, 2023 3:08:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 23, 2023 3:08:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 23, 2023 3:08:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 23, 2023 3:08:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 23, 2023 3:17:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 23, 2023 3:17:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 23, 2023 3:17:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 23, 2023 3:17:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 23, 2023 3:17:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.11.25 00:06:41 INFO  Shutting down server
+2023.11.25 00:06:41 INFO  shutting down Metals
+2023.11.25 00:06:41 INFO  Exiting server
